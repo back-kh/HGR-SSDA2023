@@ -1,18 +1,23 @@
-# SSDA2023_Historical-Image-Explorers, University of Fribourg, Switzerland
+# SSDA2023 Historical Image Explorers
 
-Welcome to our repository for SSDA 2023! This project focuses on the recognition of German historical documents, leveraging advanced techniques in document image recognition. Our goal is to provide an accessible resource for training models on small historical datasets, helping researchers and developers improve the quality and accuracy of document recognition in under-resourced historical datasets.
+Welcome to the repository for the SSDA 2023 challenge by the Historical Image Explorers team at the University of Fribourg, Switzerland. This project focuses on recognizing German historical documents using advanced document image recognition techniques.
 
-# About the Project
-This repository is part of an ongoing effort by the Historical Image Explorers Team at the University of Fribourg, Switzerland For SSDA 2023. As specialists in historical document analysis, we’ve designed this project to address the unique challenges faced when working with historical documents, such as varying scripts, degraded text, and limited annotated data. Here, you’ll find:
+## Overview
+This repository is designed for researchers and developers working with small historical datasets. Our goal is to provide resources that help train models to accurately recognize text in under-resourced historical collections.
 
-Sample Code: Step-by-step examples to guide you through SSDA 2023 recognition tasks on German historical documents.
-Specialized Datasets: Carefully curated small datasets tailored to train models efficiently in historical document recognition.
-Additional Resources: Tutorials and tips for training with limited data, tailored specifically to support historical image analysis.
-Key Features
-Small Dataset Training: We provide methods and best practices for training with small datasets, which is often necessary in historical research due to limited resources.
-Customizable Pipelines: Our code offers flexibility for adapting and fine-tuning models for various historical scripts and layouts.
-Community Contributions: We encourage community members to share their own datasets, models, or code improvements to help enhance the collective knowledge and resources available for historical document recognition.
-Getting Started
+## Key Features
+- **Sample Code**: Step-by-step examples demonstrating recognition tasks for German historical documents.
+- **Specialized Datasets**: Curated small datasets prepared for efficient model training.
+- **Training Tips**: Guidance on handling limited data in historical image analysis.
 
-We welcome contributions from researchers and developers interested in historical document analysis. If you have additional datasets, model improvements, or innovative techniques, please feel free to contribute or reach out to our team!
+## Repository Contents
+- `Binary-TROCR.ipynb` and `RGB-TROCR.ipynb`: Notebooks for experimenting with different input representations.
+- `Binary_train_with_AUG.ipynb`: Training notebook that includes simple augmentation.
+- `pre-processing.zip`: Scripts for preparing data.
+- `README.txt`: Notes about training challenges on limited hardware.
 
+## Getting Started
+Contributions from the community are welcome. If you have additional datasets, model improvements, or innovative techniques, feel free to open an issue or pull request.
+
+## Acknowledgements
+This work is part of the ongoing efforts of the Historical Image Explorers team. We appreciate any feedback or contributions that help advance historical document recognition.
