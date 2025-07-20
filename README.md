@@ -23,7 +23,7 @@ We focus on:
 <p align="center"><em>Figure 1: Sample historical German textline script from SSDA2023 dataset.</em></p>
 
 <p align="center">
-  <img src="fig/2.JPG" alt="Binarized Textline" width="500"/>
+  <img src="fig/2.png" alt="Binarized Textline" width="500"/>
 </p>
 <p align="center"><em>Figure 2: Sample of binarized version of the textline, highlighting cleaner contours and improved contrast for recognition tasks.</em></p>
 
